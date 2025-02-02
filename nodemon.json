@@ -1,0 +1,4 @@
+{
+    "ignore": ["node_modules/", "dist/"],
+    "exec": "ts-node src/index.ts"
+}
